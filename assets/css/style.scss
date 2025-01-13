@@ -3,9 +3,16 @@
 
 @import "{{ site.theme }}";
 .wrapper {
-    width: 560px;
+    width: 860px;
     margin: 0 auto;
 }
+
+header {
+    width:180px;
+    float:left;
+    position:fixed;
+    -webkit-font-smoothing:subpixel-antialiased;
+  }
 
 section {
     width:680px;
