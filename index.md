@@ -1,5 +1,6 @@
 # Robotics and AI Engineer
 
+Passionate Robotics and Artificial Intelligence Engineer, working in Reinforcement Learning (RL), Large Language Models (LLMs), Perception, Computer Vision, Machine Learning (ML), Deep Learning (DL), and Robot Operating System (ROS2).
 
 ## Experience
 
