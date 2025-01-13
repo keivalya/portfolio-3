@@ -18,6 +18,14 @@
 ### Machine Learning Mentor @ _IIT Delhi - AIA - Foundation For Smart Manufacturing_
 
 
+### Researcher @ _Indian Space Research Organization (SAC/ISRO)_
+
+
+### Research Project Intern @ _IIT Delhi - AIA - Foundation For Smart Manufacturing_
+
+
+### Wordpress Developer Intern @ _Progragon Technolabs_
+
 
 ## Education
 - MS Robotics | Northeastern University | December '26
