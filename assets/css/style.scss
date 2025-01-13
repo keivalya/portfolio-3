@@ -15,6 +15,12 @@ header {
     margin: 2px auto;
   }
 
+img {
+    border-radius: 50%;
+    overflow: hidden;
+    max-width:90%;
+}
+
 section {
     width:680px;
     float:right;
