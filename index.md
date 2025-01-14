@@ -2,17 +2,21 @@
 
 Passionate Robotics and Artificial Intelligence Engineer, working in Reinforcement Learning (RL), Large Language Models (LLMs), Perception, Computer Vision, Machine Learning (ML), Deep Learning (DL), and Robot Operating System (ROS2).
 
+(This portfolio is still under development. Most recent updates can be found on my [LinkedIn](https://www.linkedin.com/in/keivalya). Have a good one!)
+
 ## Experience
 
 ### Graduate Research Apprentice @ _Khoury College of Computer Science_
 
 | _Jan 2025 - Present_ | Boston, MA |
-Developing StretchAI under the supervision of [Prof Zhi Tan](https://zhi.fyi/). Benchmarking StretchAI LLM implementation to build human-collaborative robots, that work together _like a team_! Additionally, developing a novel robot manipulation + control framework that reasons using LLMs on edge device. Contributing to [Hello Robot Inc](https://hello-robot.com/) ROS2 open-source code repository, resolving bugs and proposing fixes via PRs.
+
+Developing _StretchAI_ under the supervision of [Prof Zhi Tan](https://zhi.fyi/). Benchmarking StretchAI LLM implementation to build human-collaborative robots, that work together _like a team_! Additionally, developing a novel robot manipulation + control framework that reasons using LLMs on edge device. Contributing to [Hello Robot Inc](https://hello-robot.com/) ROS2 open-source code repository, resolving bugs and proposing fixes via PRs.
 
 ### Graduate Teaching Assistant @ _Northeastern University_
 
 | _Jan 2025 - Present_ | Boston, MA |
 
+_CS5180: Reinforcement Learning and Sequential Decision Making_, for Spring 2025 taught by [Prof Rob Platt](https://www.khoury.northeastern.edu/people/robert-platt/).
 
 ### AI/ROS2 Mentor @ _MyEquation_
 
@@ -42,5 +46,6 @@ Developing StretchAI under the supervision of [Prof Zhi Tan](https://zhi.fyi/). 
 | _Jun 2021 - Jun 2021_ | Ahmedabad, GJ |
 
 ## Education
-- MS Robotics | Northeastern University | December '26
-- BE Mechanical | BVM Engineering | July '23
+
+MS Robotics | Northeastern University | 4.0 GPA | December '26
+BE Mechanical | BVM Engineering | 3.6 GPA | July '23
